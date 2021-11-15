@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.maxhenkel.soundlimit.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "LibraryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
