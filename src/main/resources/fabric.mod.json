@@ -20,7 +20,7 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "minecraft": "${minecraft_dependency}",
-    "java": ">=16"
+    "java": ">=17"
   },
   "accessWidener": "soundlimit.accesswidener"
 }
